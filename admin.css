@@ -1,0 +1,13 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: rgb(184, 169, 144);
+}
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    
+}
+#noidung{
+    margin-top: 300px;
+}
